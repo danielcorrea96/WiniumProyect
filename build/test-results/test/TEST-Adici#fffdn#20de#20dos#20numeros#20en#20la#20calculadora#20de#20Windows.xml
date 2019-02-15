@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Adici�n de dos numeros en la calculadora de Windows" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-02-14T19:27:38" hostname="CPX-8U5JI69JOZ6" time="12.387">
+  <properties/>
+  <testcase name="PRUEBA A REALIZAR - Suma de dos numeros" classname="Adici�n de dos numeros en la calculadora de Windows" time="12.387">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 14, 2019 2:27:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
